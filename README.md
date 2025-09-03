@@ -26,7 +26,7 @@ Lo más complicado fue manejar datos mal formateados o vacíos, especialmente en
 
 ### 1.4 Diagrama de base de datos
 
-![Diagrama](diagrama_bd.png)
+![Diagrama](Diagram_1.4.png)
 
 ### 1.5 Resumen final
 
